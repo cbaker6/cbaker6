@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me
+
+- 🔭 I’m the director of [NetReconLab](https://github.com/netreconlab)
+- 👯 I’m looking to collaborate on medical based research applications (check out [ParseCareKit](https://github.com/netreconlab/ParseCareKit))
+
+<a href="https://www.buymeacoffee.com/cbaker6" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <!--
 **cbaker6/cbaker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
