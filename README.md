@@ -6,6 +6,10 @@
 
 <a href="https://www.buymeacoffee.com/cbaker6" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbaker6&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbaker6&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cbaker6/cbaker6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
