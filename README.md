@@ -1,6 +1,7 @@
 ### About Me
 
-- 🔭 I’m the director of the [Network Reconnaissance Lab (NetReconLab)](https://github.com/netreconlab) at the [University of Southern California](https://minghsiehece.usc.edu) (Starting January 2024). Located at [University of Kentucky](http://www.engr.uky.edu/research-faculty/departments/computer-science) until December 2023
+- 🔭 I’m the director of the [Network Reconnaissance Lab (NetReconLab)](https://github.com/netreconlab) at the [University of Southern California](https://minghsiehece.usc.edu)
+- 📱Former [@apple](https://www.researchandcare.org) Health Research App & Frameworks Engineer
 - 👯 I’m looking to collaborate on medical based research applications that operate when the Internet is availabe, limited, or non-existant (check out [ParseCareKit](https://github.com/netreconlab/ParseCareKit) for more info)
 - 📫 How to reach me: <c.baker@usc.edu>
 
