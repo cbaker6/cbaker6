@@ -7,7 +7,7 @@
 
 <a href="https://www.buymeacoffee.com/cbaker6" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cbaker6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net?username=cbaker6)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=cbaker6&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
